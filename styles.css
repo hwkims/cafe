@@ -164,6 +164,7 @@ img {
     transform: translate(-50%, -50%);
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
+    font-weight: bolder;
   }
   
   #menu-container ul li:hover span {
@@ -215,6 +216,8 @@ img {
         transform: translate(-50%, -50%);
         opacity: 0;
         transition: opacity 0.3s ease-in-out;
+        font-weight: bolder;
+    
       }
       
       #event-container ul li:hover span {
